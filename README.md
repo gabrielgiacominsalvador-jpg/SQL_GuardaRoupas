@@ -10,4 +10,4 @@ CREATE TABLE técnico (
 --entidade geralmente se refere a tabela que vocês querem criar--
 --coluna1 foi colocada como texto(text) que é a premisssa mais básica de escrita de coluna--
 --coluna2 foi utilizado o varchar para mostrar como voce limita a quantidade de caracteres--
---coluna3 se refere ao item de configuracao mais basico para inserir numeros(int esta associado a inteiro, ou seja, um numero INTeiro)
+--coluna3 se refere ao item de configuracao mais basico para inserir numeros(int esta associado a inteiro, ou seja, um numero INTeiro)--
