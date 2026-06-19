@@ -1,7 +1,7 @@
 # SQL_GuardaRoupas
 Atividade desenvolvida em sala, com o auxilio do professor
 
-CREATE TABLE t (
+CREATE TABLE tecnico (
 ID bigint generated always as identity primary key not null,
 coluna1 text,
 coluna2 varchar(15),
