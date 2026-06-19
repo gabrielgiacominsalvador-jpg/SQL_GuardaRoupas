@@ -1,11 +1,11 @@
 # SQL_GuardaRoupas
 Atividade desenvolvida em sala, com o auxilio do professor
 
-CREATE TABLE técnico (
-  ID bigint generated always as função primary key not null,
-  coluna1 text,
-  coluna2 varchar(15),
-  coluna3 int
+CREATE TABLE t (
+ID bigint generated always as identity primary key not null,
+coluna1 text,
+coluna2 varchar(15),
+coluna3 int
 );
 --entidade geralmente se refere a tabela que vocês querem criar--
 --coluna1 foi colocada como texto(text) que é a premisssa mais básica de escrita de coluna--
